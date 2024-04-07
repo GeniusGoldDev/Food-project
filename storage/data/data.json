@@ -1,0 +1,1567 @@
+[{
+    "key": "storeColor",
+    "value": "#fc8019"
+}, {
+    "key": "splashLogo",
+    "value": "splash.jpg"
+}, {
+    "key": "firstScreenHeading",
+    "value": "Order from top & favourite restaurants"
+}, {
+    "key": "firstScreenSubHeading",
+    "value": "Ready to see top restaurant to order?"
+}, {
+    "key": "firstScreenSetupLocation",
+    "value": "setup your location"
+}, {
+    "key": "firstScreenLoginText",
+    "value": "Have an account?"
+}, {
+    "key": "footerNearme",
+    "value": "Near Me"
+}, {
+    "key": "footerExplore",
+    "value": "Explore"
+}, {
+    "key": "footerCart",
+    "value": "Cart"
+}, {
+    "key": "footerAccount",
+    "value": "Account"
+}, {
+    "key": "restaurantCountText",
+    "value": "Restaurants Near You"
+}, {
+    "key": "searchAreaPlaceholder",
+    "value": "Search your area..."
+}, {
+    "key": "searchPopularPlaces",
+    "value": "Popular Places"
+}, {
+    "key": "recommendedBadgeText",
+    "value": "Recommended"
+}, {
+    "key": "recommendedBadgeColor",
+    "value": "#d53d4c"
+}, {
+    "key": "popularBadgeText",
+    "value": "Popular"
+}, {
+    "key": "popularBadgeColor",
+    "value": "#ff5722"
+}, {
+    "key": "newBadgeText",
+    "value": "New"
+}, {
+    "key": "newBadgeColor",
+    "value": "#2196F3"
+}, {
+    "key": "currencyFormat",
+    "value": "$"
+}, {
+    "key": "currencyId",
+    "value": "USD"
+}, {
+    "key": "cartColorBg",
+    "value": "#60b246"
+}, {
+    "key": "cartColorText",
+    "value": "#ffffff"
+}, {
+    "key": "cartEmptyText",
+    "value": "Your Cart is Empty"
+}, {
+    "key": "firstScreenHeroImage",
+    "value": "assets/img/various/156662819939lzR3gB2i.png"
+}, {
+    "key": "restaurantSearchPlaceholder",
+    "value": "Search for restaurants and items..."
+}, {
+    "key": "accountManageAddress",
+    "value": "Manage Address"
+}, {
+    "key": "accountMyOrders",
+    "value": "My Orders"
+}, {
+    "key": "accountHelpFaq",
+    "value": "Help & FAQs"
+}, {
+    "key": "accountLogout",
+    "value": "Logout"
+}, {
+    "key": "cartMakePayment",
+    "value": "Make Payment"
+}, {
+    "key": "cartLoginHeader",
+    "value": "Almost There"
+}, {
+    "key": "cartLoginSubHeader",
+    "value": "Login or Signup to place your order"
+}, {
+    "key": "cartLoginButtonText",
+    "value": "Continue"
+}, {
+    "key": "cartDeliverTo",
+    "value": "Deliver To"
+}, {
+    "key": "cartChangeLocation",
+    "value": "Change"
+}, {
+    "key": "buttonNewAddress",
+    "value": "New Address"
+}, {
+    "key": "buttonSaveAddress",
+    "value": "Save Address"
+}, {
+    "key": "editAddressAddress",
+    "value": "Flat/Apartment Number"
+}, {
+    "key": "editAddressHouse",
+    "value": "House / Flat No."
+}, {
+    "key": "editAddressLandmark",
+    "value": "Landmark"
+}, {
+    "key": "editAddressTag",
+    "value": "Tag"
+}, {
+    "key": "addressTagPlaceholder",
+    "value": "Eg. Home, Work"
+}, {
+    "key": "cartApplyCoupon",
+    "value": "Apply Coupon"
+}, {
+    "key": "cartInvalidCoupon",
+    "value": "Invalid Coupon"
+}, {
+    "key": "cartSuggestionPlaceholder",
+    "value": "Suggestion for the restaurant..."
+}, {
+    "key": "editAddressText",
+    "value": "Edit"
+}, {
+    "key": "deleteAddressText",
+    "value": "Delete"
+}, {
+    "key": "noAddressText",
+    "value": "You don't have any saved addresses."
+}, {
+    "key": "cartSetAddressText",
+    "value": "Set Your Address"
+}, {
+    "key": "cartPageTitle",
+    "value": "Cart"
+}, {
+    "key": "checkoutPageTitle",
+    "value": "Checkout"
+}, {
+    "key": "checkoutPlaceOrder",
+    "value": "Place Order"
+}, {
+    "key": "runningOrderPlacedTitle",
+    "value": "Order Placed Successfully"
+}, {
+    "key": "runningOrderPlacedSub",
+    "value": "Waiting for the restaurant to confirm your order"
+}, {
+    "key": "runningOrderPreparingTitle",
+    "value": "Chef at work!!"
+}, {
+    "key": "runningOrderPreparingSub",
+    "value": "Restaurant is preparing your order"
+}, {
+    "key": "runningOrderOnwayTitle",
+    "value": "Vroom Vroom!!"
+}, {
+    "key": "runningOrderOnwaySub",
+    "value": "Order has been picked up and is on its way"
+}, {
+    "key": "runningOrderRefreshButton",
+    "value": "Refresh Order Status"
+}, {
+    "key": "noOrdersText",
+    "value": "You have not placed any order yet."
+}, {
+    "key": "orderTextTotal",
+    "value": "Total:"
+}, {
+    "key": "checkoutPaymentListTitle",
+    "value": "Select your prefered payment method"
+}, {
+    "key": "checkoutSelectPayment",
+    "value": "Select Payment Method"
+}, {
+    "key": "mapApiKey",
+    "value": null
+}, {
+    "key": "storeName",
+    "value": "Foodoma",
+    "created_at": null,
+    "updated_at": "2019-08-01 07:29:46"
+}, {
+    "key": "storeLogo",
+    "value": "logo.png"
+}, {
+    "key": "runningOrderDeliveryAssignedTitle",
+    "value": "Delivery Guy Assigned"
+}, {
+    "key": "runningOrderDeliveryAssignedSub",
+    "value": "On the way to pick up your order."
+}, {
+    "key": "runningOrderCanceledTitle",
+    "value": "Order Canceled"
+}, {
+    "key": "runningOrderCanceledSub",
+    "value": "Sorry. Your order has been canceled."
+}, {
+    "key": "stripePublicKey",
+    "value": null
+}, {
+    "key": "stripeSecretKey",
+    "value": null
+}, {
+    "key": "firstScreenWelcomeMessage",
+    "value": "Welcome,"
+}, {
+    "key": "firstScreenLoginBtn",
+    "value": "Login"
+}, {
+    "key": "loginErrorMessage",
+    "value": "Woopss!! Something went wrong. Please try again."
+}, {
+    "key": "pleaseWaitText",
+    "value": "Please Wait..."
+}, {
+    "key": "loginLoginTitle",
+    "value": "LOGIN"
+}, {
+    "key": "loginLoginSubTitle",
+    "value": "Enter your email and password"
+}, {
+    "key": "loginLoginEmailLabel",
+    "value": "Email"
+}, {
+    "key": "loginLoginPasswordLabel",
+    "value": "Password"
+}, {
+    "key": "homePageMinsText",
+    "value": "MINS"
+}, {
+    "key": "homePageForTwoText",
+    "value": "FOR TWO"
+}, {
+    "key": "itemsPageRecommendedText",
+    "value": "RECOMMENDED"
+}, {
+    "key": "floatCartItemsText",
+    "value": "Items"
+}, {
+    "key": "floatCartViewCartText",
+    "value": "View Cart"
+}, {
+    "key": "cartItemsInCartText",
+    "value": "Items in Cart"
+}, {
+    "key": "cartBillDetailsText",
+    "value": "Bill Details"
+}, {
+    "key": "cartItemTotalText",
+    "value": "Item Total"
+}, {
+    "key": "cartRestaurantCharges",
+    "value": "Restaurant Charges"
+}, {
+    "key": "cartDeliveryCharges",
+    "value": "Delivery Charges"
+}, {
+    "key": "cartCouponText",
+    "value": "Coupon"
+}, {
+    "key": "cartToPayText",
+    "value": "To Pay"
+}, {
+    "key": "cartSetYourAddress",
+    "value": "Set Your Address"
+}, {
+    "key": "checkoutPaymentInProcess",
+    "value": "Payment in process. Do not hit refresh or go back."
+}, {
+    "key": "checkoutStripeText",
+    "value": "Stripe"
+}, {
+    "key": "checkoutStripeSubText",
+    "value": "Online Payment"
+}, {
+    "key": "checkoutCodText",
+    "value": "COD"
+}, {
+    "key": "checkoutCodSubText",
+    "value": "Cash On Delivery"
+}, {
+    "key": "showPromoSlider",
+    "value": "false"
+}, {
+    "key": "loginLoginPhoneLabel",
+    "value": "Phone"
+}, {
+    "key": "loginLoginNameLabel",
+    "value": "Name"
+}, {
+    "key": "registerErrorMessage",
+    "value": "Woppss!! Something went wrong. Please try again."
+}, {
+    "key": "registerRegisterTitle",
+    "value": "Register"
+}, {
+    "key": "registerRegisterSubTitle",
+    "value": "Regsiter now for free"
+}, {
+    "key": "firstScreenRegisterBtn",
+    "value": "Register"
+}, {
+    "key": "loginDontHaveAccount",
+    "value": "Don't have an account yet? "
+}, {
+    "key": "regsiterAlreadyHaveAccount",
+    "value": "Already have an account? "
+}, {
+    "key": "favicon-16x16",
+    "value": "favicon-16x16.png"
+}, {
+    "key": "favicon-32x32",
+    "value": "favicon-32x32.png"
+}, {
+    "key": "favicon-96x96",
+    "value": "favicon-96x96.png"
+}, {
+    "key": "favicon-128x128",
+    "value": "favicon-128x128.png"
+}, {
+    "key": "storeEmail",
+    "value": "care@store.com"
+}, {
+    "key": "seoMetaTitle",
+    "value": null
+}, {
+    "key": "seoMetaDescription",
+    "value": null
+}, {
+    "key": "storeUrl",
+    "value": null
+}, {
+    "key": "twitterUsername",
+    "value": "twitter-username"
+}, {
+    "key": "seoOgTitle",
+    "value": null
+}, {
+    "key": "seoOgDescription",
+    "value": null
+}, {
+    "key": "seoTwitterTitle",
+    "value": null
+}, {
+    "key": "seoTwitterDescription",
+    "value": null
+}, {
+    "key": "seoOgImage",
+    "value": null
+}, {
+    "key": "seoTwitterImage",
+    "value": null
+}, {
+    "key": "accountMyAccount",
+    "value": "My Account"
+}, {
+    "key": "desktopHeading",
+    "value": "Order from restaurants near you"
+}, {
+    "key": "desktopSubHeading",
+    "value": "Easy way to get the food you love delivered.\r\nWe bring food from the best restaurants and desserts to your doorstep. We have <b style=\"\">hundreds</b> of restaurants to choose from."
+}, {
+    "key": "desktopUseAppButton",
+    "value": "Use App"
+}, {
+    "key": "desktopAchievementOneTitle",
+    "value": "Restaurants"
+}, {
+    "key": "desktopAchievementOneSub",
+    "value": "2300+"
+}, {
+    "key": "desktopAchievementTwoTitle",
+    "value": "Items"
+}, {
+    "key": "desktopAchievementTwoSub",
+    "value": "65000+"
+}, {
+    "key": "desktopAchievementThreeTitle",
+    "value": "Customers"
+}, {
+    "key": "desktopAchievementThreeSub",
+    "value": "1M+"
+}, {
+    "key": "desktopAchievementFourTitle",
+    "value": "Deliveries"
+}, {
+    "key": "desktopAchievementFourSub",
+    "value": "5M+"
+}, {
+    "key": "desktopSocialFacebookLink",
+    "value": "https://www.facebook.com"
+}, {
+    "key": "desktopSocialGoogleLink",
+    "value": "https://www.google.com"
+}, {
+    "key": "desktopSocialYoutubeLink",
+    "value": null
+}, {
+    "key": "desktopSocialInstagramLink",
+    "value": "https://www.instagram.com"
+}, {
+    "key": "desktopFooterSocialHeader",
+    "value": "We Are Social"
+}, {
+    "key": "desktopFooterAddress",
+    "value": "#1201, Someplace, Near Somewhere"
+}, {
+    "key": "runningOrderDeliveryPin",
+    "value": "Delivery Pin: "
+}, {
+    "key": "deliveryNoOrdersAccepted",
+    "value": "No Orders Accepted Yet"
+}, {
+    "key": "deliveryNoNewOrders",
+    "value": "No New Orders Yet"
+}, {
+    "key": "firstScreenHeroImageSm",
+    "value": "assets/img/various/156662819939lzR3gB2i-sm.png"
+}, {
+    "key": "showMap",
+    "value": "false"
+}, {
+    "key": "paypalEnv",
+    "value": "sandbox"
+}, {
+    "key": "paypalSandboxKey",
+    "value": null
+}, {
+    "key": "paypalProductionKey",
+    "value": null
+}, {
+    "key": "enablePushNotification",
+    "value": "false"
+}, {
+    "key": "enablePushNotificationOrders",
+    "value": "false"
+}, {
+    "key": "firebaseSenderId",
+    "value": "587656068333"
+}, {
+    "key": "firebaseSecret",
+    "value": null
+}, {
+    "key": "runningOrderDelivered",
+    "value": "Order Delivered"
+}, {
+    "key": "runningOrderDeliveredSub",
+    "value": "The order has been delivered to you. Enjoy."
+}, {
+    "key": "showGdpr",
+    "value": "false"
+}, {
+    "key": "gdprMessage",
+    "value": "We use Cookies to give you the best possible service. By continuing to browse our site you are agreeing to our use of Cookies"
+}, {
+    "key": "gdprConfirmButton",
+    "value": "Okay"
+}, {
+    "key": "restaurantFeaturedText",
+    "value": "Featured"
+}, {
+    "key": "deliveryNewOrdersTitle",
+    "value": "New Orders"
+}, {
+    "key": "deliveryAcceptedOrdersTitle",
+    "value": "Accepted Orders"
+}, {
+    "key": "deliveryWelcomeMessage",
+    "value": "Welcome"
+}, {
+    "key": "deliveryOrderItems",
+    "value": "Order Items"
+}, {
+    "key": "deliveryRestaurantAddress",
+    "value": "Restaurant Address"
+}, {
+    "key": "deliveryGetDirectionButton",
+    "value": "Get Direction"
+}, {
+    "key": "deliveryDeliveryAddress",
+    "value": "Delivery Address"
+}, {
+    "key": "deliveryOnlinePayment",
+    "value": "Online Payment"
+}, {
+    "key": "deliveryDeliveryPinPlaceholder",
+    "value": "ENTER DELIVERY PIN"
+}, {
+    "key": "deliveryAcceptOrderButton",
+    "value": "Accept"
+}, {
+    "key": "deliveryPickedUpButton",
+    "value": "Picked Up"
+}, {
+    "key": "deliveryDeliveredButton",
+    "value": "Delivered"
+}, {
+    "key": "deliveryOrderCompletedButton",
+    "value": "Order Completed"
+}, {
+    "key": "deliveryInvalidDeliveryPin",
+    "value": "Incorrect delivery pin. Please try again."
+}, {
+    "key": "deliveryAlreadyAccepted",
+    "value": "This delivery has been accepted by someone else."
+}, {
+    "key": "deliveryLogoutDelivery",
+    "value": "Logout Delivery"
+}, {
+    "key": "enableGoogleAnalytics",
+    "value": "false"
+}, {
+    "key": "googleAnalyticsId",
+    "value": null
+}, {
+    "key": "taxApplicable",
+    "value": "false"
+}, {
+    "key": "taxPercentage",
+    "value": null
+}, {
+    "key": "firebasePublic",
+    "value": "BH5L8XrGsNpki5uF1008FbZzgKKZN-NmhOwdWL5Lxh5r3nsgZ6N_Dged1IYXXCCJwpnrXzs52G_v3vM_naO0hxY"
+}, {
+    "key": "deliveryLogoutConfirmation",
+    "value": "Are you sure?"
+}, {
+    "key": "customizationHeading",
+    "value": "Customizations"
+}, {
+    "key": "customizableItemText",
+    "value": "Customizable"
+}, {
+    "key": "customizationDoneBtnText",
+    "value": "Continue"
+}, {
+    "key": "paystackPublicKey",
+    "value": "pk_test_ecf3496bdf36bced2112a502f5f5bb96e1340124"
+}, {
+    "key": "paystackPrivateKey",
+    "value": null
+}, {
+    "key": "paystackPayText",
+    "value": "PAY WITH PAYSLACK"
+}, {
+    "key": "minPayout",
+    "value": "150"
+}, {
+    "key": "enableFacebookLogin",
+    "value": "false"
+}, {
+    "key": "facebookAppId",
+    "value": null
+}, {
+    "key": "facebookLoginButtonText",
+    "value": "Login with Facebook"
+}, {
+    "key": "enableGoogleLogin",
+    "value": "false"
+}, {
+    "key": "googleAppId",
+    "value": null
+}, {
+    "key": "googleLoginButtonText",
+    "value": "Login with Google"
+}, {
+    "key": "customCSS",
+    "value": null
+}, {
+    "key": "enSOV",
+    "value": "false"
+}, {
+    "key": "twilioSid",
+    "value": null
+}, {
+    "key": "twilioAccessToken",
+    "value": null
+}, {
+    "key": "twilioServiceId",
+    "value": null
+}, {
+    "key": "fieldValidationMsg",
+    "value": "This is a required field."
+}, {
+    "key": "nameValidationMsg",
+    "value": "Please enter your full name."
+}, {
+    "key": "emailValidationMsg",
+    "value": "Please enter a valid email."
+}, {
+    "key": "phoneValidationMsg",
+    "value": "Please enter a phone number in this format: +1123456789"
+}, {
+    "key": "minimumLengthValidationMessage",
+    "value": "This field must be at least 8 characters long."
+}, {
+    "key": "emailPhoneAlreadyRegistered",
+    "value": "Email or Phone has already been registered."
+}, {
+    "key": "enterPhoneToVerify",
+    "value": "Please enter your phone number to verify"
+}, {
+    "key": "invalidOtpMsg",
+    "value": "Invalid OTP. Please check and try again."
+}, {
+    "key": "otpSentMsg",
+    "value": "An OTP has been sent to "
+}, {
+    "key": "resendOtpMsg",
+    "value": "Resend OTP to "
+}, {
+    "key": "resendOtpCountdownMsg",
+    "value": "Resend OTP in "
+}, {
+    "key": "verifyOtpBtnText",
+    "value": "Verify OTP"
+}, {
+    "key": "socialWelcomeText",
+    "value": "Hi "
+}, {
+    "key": "emailPassDonotMatch",
+    "value": "Email & Password do not match."
+}, {
+    "key": "enSPU",
+    "value": "true"
+}, {
+    "key": "runningOrderReadyForPickup",
+    "value": "Food is Ready"
+}, {
+    "key": "runningOrderReadyForPickupSub",
+    "value": "Your order is ready for self pickup."
+}, {
+    "key": "deliveryTypeDelivery",
+    "value": "Delivery"
+}, {
+    "key": "deliveryTypeSelfPickup",
+    "value": "Self Pickup"
+}, {
+    "key": "noRestaurantMessage",
+    "value": "No restaurants are available."
+}, {
+    "key": "selectedSelfPickupMessage",
+    "value": "You have selected Self Pickup."
+}, {
+    "key": "vehicleText",
+    "value": "Vehicle:"
+}, {
+    "key": "deliveryGuyAfterName",
+    "value": "is your delivery valet today."
+}, {
+    "key": "callNowButton",
+    "value": "Call Now"
+}, {
+    "key": "enableGoogleAPI",
+    "value": "false"
+}, {
+    "key": "checkoutRazorpayText",
+    "value": "Razorpay"
+}, {
+    "key": "checkoutRazorpaySubText",
+    "value": "Pay with cards, wallet or UPI"
+}, {
+    "key": "razorpayKeyId",
+    "value": "rzp_test_VWcp86nfU6T7rV"
+}, {
+    "key": "razorpayKeySecret",
+    "value": "eLzMBr1cycRG0iEjgMptgjMs"
+}, {
+    "key": "allowLocationAccessMessage",
+    "value": "Kindly allow location access for live tracking."
+}, {
+    "key": "enableDeliveryPin",
+    "value": "true"
+}, {
+    "key": "deliveryOrdersRefreshBtn",
+    "value": "Refresh"
+}, {
+    "key": "restaurantAcceptTimeThreshold",
+    "value": "10"
+}, {
+    "key": "deliveryAcceptTimeThreshold",
+    "value": "45"
+}, {
+    "key": "taxText",
+    "value": "Tax"
+}, {
+    "key": "itemsRemovedMsg",
+    "value": "Items added from the previous restaurant have been removed."
+}, {
+    "key": "ongoingOrderMsg",
+    "value": "You have some on-going orders. VIEW"
+}, {
+    "key": "trackOrderText",
+    "value": "Track Order"
+}, {
+    "key": "orderPlacedStatusText",
+    "value": "Order Placed"
+}, {
+    "key": "preparingOrderStatusText",
+    "value": "Preparing Order"
+}, {
+    "key": "deliveryGuyAssignedStatusText",
+    "value": "Delivery Guy Assigned"
+}, {
+    "key": "orderPickedUpStatusText",
+    "value": "Order Picked Up"
+}, {
+    "key": "deliveredStatusText",
+    "value": "Delivered"
+}, {
+    "key": "canceledStatusText",
+    "value": "Canceled"
+}, {
+    "key": "readyForPickupStatusText",
+    "value": "Ready For Pickup"
+}, {
+    "key": "pureVegText",
+    "value": "Pure Veg"
+}, {
+    "key": "certificateCodeText",
+    "value": "Certificate Code: "
+}, {
+    "key": "showMoreButtonText",
+    "value": "Show More"
+}, {
+    "key": "showLessButtonText",
+    "value": "Show Less"
+}, {
+    "key": "walletName",
+    "value": "Wallet"
+}, {
+    "key": "accountMyWallet",
+    "value": "My Wallet"
+}, {
+    "key": "noWalletTransactionsText",
+    "value": "No Wallet Transactions Yet!!!"
+}, {
+    "key": "walletDepositText",
+    "value": "Deposit"
+}, {
+    "key": "walletWithdrawText",
+    "value": "Withdraw"
+}, {
+    "key": "payPartialWithWalletText",
+    "value": "Pay partial amount with wallet"
+}, {
+    "key": "willbeDeductedText",
+    "value": "will be deducted from your balance of"
+}, {
+    "key": "payFullWithWalletText",
+    "value": "Pay full amount with Wallet."
+}, {
+    "key": "orderPaymentWalletComment",
+    "value": "Payment for order:"
+}, {
+    "key": "orderPartialPaymentWalletComment",
+    "value": "Partial payment for order:"
+}, {
+    "key": "orderRefundWalletComment",
+    "value": "Refund for order cancellation."
+}, {
+    "key": "orderPartialRefundWalletComment",
+    "value": "Partial Refund for order cancellation."
+}, {
+    "key": "enDevMode",
+    "value": "true"
+}, {
+    "key": "walletRedeemBtnText",
+    "value": "Redeem"
+}, {
+    "key": "restaurantNewOrderNotificationMsg",
+    "value": "A New Order has Arrived !!!"
+}, {
+    "key": "restaurantNewOrderNotificationMsgSub",
+    "value": "New Order Notification"
+}, {
+    "key": "deliveryGuyNewOrderNotificationMsg",
+    "value": "A New Order is Waiting !!!"
+}, {
+    "key": "deliveryGuyNewOrderNotificationMsgSub",
+    "value": "New Order Notification"
+}, {
+    "key": "firebaseSDKSnippet",
+    "value": ""
+}, {
+    "key": "cartCouponOffText",
+    "value": "OFF"
+}, {
+    "key": "willBeRefundedText",
+    "value": "will be refunded back to your wallet."
+}, {
+    "key": "willNotBeRefundedText",
+    "value": "No Refund will be made to your wallet as the restaurant has already prepared the order."
+}, {
+    "key": "cartRestaurantNotOperational",
+    "value": "Restaurant is not operational on your selected location."
+}, {
+    "key": "addressDoesnotDeliverToText",
+    "value": "Does not deliver to"
+}, {
+    "key": "googleApiKey",
+    "value": ""
+}, {
+    "key": "useCurrentLocationText",
+    "value": "Use Current Location"
+}, {
+    "key": "gpsAccessNotGrantedMsg",
+    "value": "GPS access is not granted or was denied."
+}, {
+    "key": "yourLocationText",
+    "value": "YOUR LOCATION"
+}, {
+    "key": "notAcceptingOrdersMsg",
+    "value": "Currently Not Accepting Any Orders"
+}, {
+    "key": "exploreRestautantsText",
+    "value": "RESTAURANTS"
+}, {
+    "key": "exploreItemsText",
+    "value": "ITEMS"
+}, {
+    "key": "hidePriceWhenZero",
+    "value": "true"
+}, {
+    "key": "phoneCountryCode",
+    "value": "+1"
+}, {
+    "key": "orderCancellationConfirmationText",
+    "value": "Do you want to cancel this order?"
+}, {
+    "key": "yesCancelOrderBtn",
+    "value": "Yes, Cancel Order"
+}, {
+    "key": "cancelGoBackBtn",
+    "value": "Go back"
+}, {
+    "key": "cancelOrderMainButton",
+    "value": "Cancel Order"
+}, {
+    "key": "deliveryOrderPlacedText",
+    "value": "Order Placed"
+}, {
+    "key": "deliveryCashOnDelivery",
+    "value": "Cash On Delivery"
+}, {
+    "key": "socialLoginOrText",
+    "value": "OR"
+}, {
+    "key": "orderCancelledText",
+    "value": "Order Cancelled"
+}, {
+    "key": "searchAtleastThreeCharsMsg",
+    "value": "Enter at least 3 characters to search."
+}, {
+    "key": "multiLanguageSelection",
+    "value": "true"
+}, {
+    "key": "changeLanguageText",
+    "value": "Change Language"
+}, {
+    "key": "deliveryFooterNewTitle",
+    "value": "New Orders"
+}, {
+    "key": "deliveryFooterAcceptedTitle",
+    "value": "Accepted"
+}, {
+    "key": "deliveryFooterAccount",
+    "value": "Account"
+}, {
+    "key": "enableDeliveryGuyEarning",
+    "value": "false"
+}, {
+    "key": "deliveryGuyCommissionFrom",
+    "value": "FULLORDER"
+}, {
+    "key": "deliveryEarningsText",
+    "value": "Earnings"
+}, {
+    "key": "deliveryOnGoingText",
+    "value": "On-Going"
+}, {
+    "key": "deliveryCompletedText",
+    "value": "Completed"
+}, {
+    "key": "deliveryCommissionMessage",
+    "value": "Commission for order: "
+}, {
+    "key": "itemSearchText",
+    "value": "Search results for: "
+}, {
+    "key": "itemSearchNoResultText",
+    "value": "No results found for: "
+}, {
+    "key": "itemSearchPlaceholder",
+    "value": "Search for items..."
+}, {
+    "key": "googleApiKeyIP",
+    "value": null
+}, {
+    "key": "itemsMenuButtonText",
+    "value": "MENU"
+}, {
+    "key": "enPassResetEmail",
+    "value": "false"
+}, {
+    "key": "mail_host",
+    "value": null
+}, {
+    "key": "mail_port",
+    "value": null
+}, {
+    "key": "mail_username",
+    "value": null
+}, {
+    "key": "mail_password",
+    "value": null
+}, {
+    "key": "mail_encryption",
+    "value": null
+}, {
+    "key": "enRestaurantCategorySlider",
+    "value": false
+}, {
+    "key": "restaurantCategorySliderPosition",
+    "value": "2"
+}, {
+    "key": "restaurantCategorySliderSize",
+    "value": "3"
+}, {
+    "key": "showRestaurantCategorySliderLabel",
+    "value": "false"
+}, {
+    "key": "restaurantCategorySliderStyle",
+    "value": "0.4"
+}, {
+    "key": "enRAR",
+    "value": "true"
+}, {
+    "key": "showPercentageDiscount",
+    "value": "true"
+}, {
+    "key": "itemPercentageDiscountText",
+    "value": "% OFF"
+}, {
+    "key": "showVegNonVegBadge",
+    "value": "true"
+}, {
+    "key": "exploreNoResults",
+    "value": "No Items or Restaurants Found"
+}, {
+    "key": "updatingMessage",
+    "value": "Updating..."
+}, {
+    "key": "userNotFoundErrorMessage",
+    "value": "No user found with this email."
+}, {
+    "key": "invalidOtpErrorMessage",
+    "value": "Invalid OTP Entered"
+}, {
+    "key": "resetPasswordPageTitle",
+    "value": "Reset Password"
+}, {
+    "key": "resetPasswordPageSubTitle",
+    "value": "Enter your email address to continue"
+}, {
+    "key": "sendOtpOnEmailButtonText",
+    "value": "Send OTP on Email"
+}, {
+    "key": "alreadyHaveResetOtpButtonText",
+    "value": "I already have an OTP"
+}, {
+    "key": "enterResetOtpMessageText",
+    "value": "Enter the OTP sent to you email"
+}, {
+    "key": "verifyResetOtpButtonText",
+    "value": "Verify OTP"
+}, {
+    "key": "dontHaveResetOtpButtonText",
+    "value": "I dont have an OTP"
+}, {
+    "key": "enterNewPasswordText",
+    "value": "Please enter a new password below"
+}, {
+    "key": "newPasswordLabelText",
+    "value": "New Password"
+}, {
+    "key": "setNewPasswordButtonText",
+    "value": "Set New Password"
+}, {
+    "key": "exlporeByRestaurantText",
+    "value": "By"
+}, {
+    "key": "forgotPasswordLinkText",
+    "value": "Forgot Password?"
+}, {
+    "key": "categoriesNoRestaurantsFoundText",
+    "value": "No Restaurants Found"
+}, {
+    "key": "categoriesFiltersText",
+    "value": "Filters"
+}, {
+    "key": "sendEmailFromEmailAddress",
+    "value": "do-not-reply@foodomaa.com"
+}, {
+    "key": "sendEmailFromEmailName",
+    "value": "Foodomaa"
+}, {
+    "key": "passwordResetEmailSubject",
+    "value": "Reset Password OTP"
+}, {
+    "key": "registrationPolicyMessage",
+    "value": null
+}, {
+    "key": "locationSavedAddresses",
+    "value": "Saved Addresses"
+}, {
+    "key": "restaurantMinOrderMessage",
+    "value": "Min cart value should be atleast "
+}, {
+    "key": "footerAlerts",
+    "value": "Alerts"
+}, {
+    "key": "showFromNowDate",
+    "value": "true"
+}, {
+    "key": "markAllAlertReadText",
+    "value": "Mark all read"
+}, {
+    "key": "noNewAlertsText",
+    "value": "No new alerts"
+}, {
+    "key": "currencySymbolAlign",
+    "value": "left"
+}, {
+    "key": "restaurantNotificationAudioTrack",
+    "value": "Alert-5"
+}, {
+    "key": "restaurantNewOrderRefreshRate",
+    "value": "15"
+}, {
+    "key": "enDelChrRnd",
+    "value": "true"
+}, {
+    "key": "expandAllItemMenu",
+    "value": "true"
+}, {
+    "key": "msg91AuthKey",
+    "value": null
+}, {
+    "key": "msg91SenderId",
+    "value": null
+}, {
+    "key": "defaultSmsGateway",
+    "value": "1"
+}, {
+    "key": "otpMessage",
+    "value": "Your OTP verification code is: "
+}, {
+    "key": "twilioFromPhone",
+    "value": null
+}, {
+    "key": "smsRestaurantNotify",
+    "value": "false"
+}, {
+    "key": "smsDeliveryNotify",
+    "value": "false"
+}, {
+    "key": "defaultSmsRestaurantMsg",
+    "value": "You have received a new order."
+}, {
+    "key": "smsRestOrderValue",
+    "value": "false"
+}, {
+    "key": "smsOrderNotify",
+    "value": "false"
+}, {
+    "key": "defaultSmsDeliveryMsg",
+    "value": "A new order has arrived."
+}, {
+    "key": "showOrderAddonsDelivery",
+    "value": "true"
+}, {
+    "key": "showDeliveryFullAddressOnList",
+    "value": "true"
+}, {
+    "key": "sendgrid_api_key",
+    "value": null
+}, {
+    "key": "showUserInfoBeforePickup",
+    "value": "true"
+}, {
+    "key": "recommendedLayoutV2",
+    "value": "true"
+}, {
+    "key": "cartItemNotAvailable",
+    "value": "Item Not Available"
+}, {
+    "key": "cartRemoveItemButton",
+    "value": "Remove Item"
+}, {
+    "key": "deliveryTotalEarningsText",
+    "value": "Total Earnings"
+}, {
+    "key": "flatApartmentAddressRequired",
+    "value": "false"
+}, {
+    "key": "deliveryUsePhoneToAccessMsg",
+    "value": "Use your mobile phone to login to the Delivery Application."
+}, {
+    "key": "restaurantNotActiveMsg",
+    "value": "Not Accepting Orders"
+}, {
+    "key": "uploadImageQuality",
+    "value": "75"
+}, {
+    "key": "deliveryMaxOrderReachedMsg",
+    "value": "Max Order Limit Reached"
+}, {
+    "key": "showInActiveItemsToo",
+    "value": "false"
+}, {
+    "key": "enGDMA",
+    "value": "false"
+}, {
+    "key": "showPriceAndOrderCommentsDelivery",
+    "value": "false"
+}, {
+    "key": "useSimpleSpinner",
+    "value": "false"
+}, {
+    "key": "randomizeStores",
+    "value": "false"
+}, {
+    "key": "showCouponDescriptionOnSuccess",
+    "value": "false"
+}, {
+    "key": "chooseAvatarText",
+    "value": "Choose your avatar"
+}, {
+    "key": "stripeAcceptAliPay",
+    "value": "false"
+}, {
+    "key": "stripeAcceptBitCoin",
+    "value": "false"
+}, {
+    "key": "stripeLocale",
+    "value": "auto"
+}, {
+    "key": "customCartMessage",
+    "value": "<p><br></p>"
+}, {
+    "key": "customHomeMessage",
+    "value": "<p><br></p>"
+}, {
+    "key": "inAppCloseButton",
+    "value": "Close"
+}, {
+    "key": "inAppOpenLinkButton",
+    "value": "Open"
+}, {
+    "key": "iOSPWAPopupTitle",
+    "value": "Add to Home Screen"
+}, {
+    "key": "iOSPWAPopupBody",
+    "value": "This website has app functionality. Add it to your home screen to use it in fullscreen and while offline."
+}, {
+    "key": "iOSPWAPopupShareButtonLabel",
+    "value": "1) Press the 'Share' button"
+}, {
+    "key": "iOSPWAPopupAddButtonLabel",
+    "value": "2) Press 'Add to Home Screen'"
+}, {
+    "key": "iOSPWAPopupCloseButtonLabel",
+    "value": "Cancel"
+}, {
+    "key": "defaultEmailGateway",
+    "value": "sendgrid"
+}, {
+    "key": "enIOSPWAPopup",
+    "value": "true"
+}, {
+    "key": "offlineTitleMessage",
+    "value": "You Are Offline"
+}, {
+    "key": "offlineSubTitleMessage",
+    "value": "Please check your internet connection."
+}, {
+    "key": "userInActiveMessage",
+    "value": "You are banned from placing orders"
+}, {
+    "key": "googleApiKeyNoRestriction",
+    "value": null
+}, {
+    "key": "footerStyleType",
+    "value": "FLOAT"
+}, {
+    "key": "mockSearchOnHomepage",
+    "value": "true"
+}, {
+    "key": "mockSearchPlaceholder",
+    "value": "Search for stores or items..."
+}, {
+    "key": "tooManyApiCallMessage",
+    "value": "Please try again in a minute..."
+}, {
+    "key": "paymongoPK",
+    "value": null
+}, {
+    "key": "paymongoSK",
+    "value": null
+}, {
+    "key": "awaitingPaymentStatusText",
+    "value": "Awaiting Payment"
+}, {
+    "key": "paymentFailedStatusText",
+    "value": "Payment Failed"
+}, {
+    "key": "awaitingPaymentTitle",
+    "value": "Awaiting Payment"
+}, {
+    "key": "awaitingPaymentSubTitle",
+    "value": "Awaiting payment from your bank. Order will be canceled if not processed in time."
+}, {
+    "key": "checkoutStripeIdealText",
+    "value": "Stripe Ideal"
+}, {
+    "key": "checkoutStripeIdealSubText",
+    "value": "Pay with Ideal Netherlands"
+}, {
+    "key": "checkoutStripeFpxText",
+    "value": "Stripe FPX"
+}, {
+    "key": "checkoutStripeFpxSubText",
+    "value": "Pay with FPX Malaysia"
+}, {
+    "key": "checkoutMercadoPagoText",
+    "value": "MercadoPago"
+}, {
+    "key": "checkoutMercadoPagoSubText",
+    "value": "Pay with MerecadoPago for Brazil"
+}, {
+    "key": "checkoutPayMongoText",
+    "value": "Pay with PayMongo"
+}, {
+    "key": "checkoutPayMongoSubText",
+    "value": "Pay with PayMongo for Philippines"
+}, {
+    "key": "checkoutPayText",
+    "value": "Pay"
+}, {
+    "key": "checkoutCardNumber",
+    "value": "Card Number"
+}, {
+    "key": "checkoutCardExpiration",
+    "value": "Expiration"
+}, {
+    "key": "checkoutCardCvv",
+    "value": "CVV"
+}, {
+    "key": "checkoutCardPostalCode",
+    "value": "Postal Code"
+}, {
+    "key": "checkoutCardFullname",
+    "value": "Full Name"
+}, {
+    "key": "checkoutIdealSelectBankText",
+    "value": "Select Bank"
+}, {
+    "key": "checkoutFpxSelectBankText",
+    "value": "Select Bank"
+}, {
+    "key": "mercadopagoAccessToken",
+    "value": null
+}, {
+    "key": "stripeInlineCardCheckout",
+    "value": "false"
+}, {
+    "key": "stripeAcceptIdealPayment",
+    "value": "false"
+}, {
+    "key": "stripeAcceptFpxPayment",
+    "value": "false"
+}, {
+    "key": "stripeCheckoutPostalCode",
+    "value": "true"
+}, {
+    "key": "googleFullAddress",
+    "value": "false"
+}, {
+    "key": "couponNotLoggedin",
+    "value": "Login to apply coupon"
+}, {
+    "key": "checkoutPaytmText",
+    "value": "Paytm"
+}, {
+    "key": "checkoutPaytmSubText",
+    "value": "Pay with Paytm Wallet | Credit/Debit Card"
+}, {
+    "key": "paytm_environment",
+    "value": "local"
+}, {
+    "key": "paytm_merchant_id",
+    "value": null
+}, {
+    "key": "paytm_merchant_key",
+    "value": null
+}, {
+    "key": "paytm_merchant_website",
+    "value": null
+}, {
+    "key": "paytm_channel",
+    "value": null
+}, {
+    "key": "paytm_industry_type",
+    "value": null
+}, {
+    "key": "showDeliveryCollection",
+    "value": "true"
+}, {
+    "key": "deliveryCollectionText",
+    "value": "COD In-Hand"
+}, {
+    "key": "allowPaymentGatewaySelection",
+    "value": "false"
+}, {
+    "key": "orderDetailsPaymentMode",
+    "value": "Payment Mode: "
+}, {
+    "key": "oneSignalAppId",
+    "value": null
+}, {
+    "key": "oneSignalRestApiKey",
+    "value": null
+}, {
+    "key": "sortSelfpickupStoresByDistance",
+    "value": "false"
+}, {
+    "key": "deliveryEarningCommissionText",
+    "value": "Commission: "
+}, {
+    "key": "applyCouponButtonText",
+    "value": "Apply"
+}, {
+    "key": "countQuantityAsTotalItemsOnCart",
+    "value": "false"
+}, {
+    "key": "deliveryPickedupOrdersTitle",
+    "value": "Picked-up Orders"
+}, {
+    "key": "deliveryNoPickedupOrdersMsg",
+    "value": "No Picked-up orders in queue."
+}, {
+    "key": "deliveryFooterPickedup",
+    "value": "Picked-Up"
+}, {
+    "key": "tips",
+    "value": "10,20,30"
+}, {
+    "key": "tips_percentage",
+    "value": "2,5,10"
+}, {
+    "key": "showTipsPercentage",
+    "value": "false"
+}, {
+    "key": "showTipsAmount",
+    "value": "false"
+}, {
+    "key": "tipText",
+    "value": "Delivery Tip"
+}, {
+    "key": "tipsForDeliveryText",
+    "value": "Tip your delivery partner"
+}, {
+    "key": "tipsThanksText",
+    "value": "Thank your delivery partner for helping you stay safe indoors. Support them through these tough times with a tip."
+}, {
+    "key": "tipsOtherText",
+    "value": "Other"
+}, {
+    "key": "deliveryTipTransactionMessage",
+    "value": "Delivery Tip: "
+}, {
+    "key": "deliveryEarningTipText",
+    "value": "Delivery Tip: "
+}, {
+    "key": "deliveryEarningTotalEarningText",
+    "value": "Total Earnings"
+}, {
+    "key": "deliveryLastSevenDaysEarningTitle",
+    "value": "Last 7 Days Earning"
+}, {
+    "key": "cartRemoveTipText",
+    "value": "Remove Tip"
+}, {
+    "key": "cartTipAmountPlaceholderText",
+    "value": "Tip Amount"
+}, {
+    "key": "cartTipPercentagePlaceholderText",
+    "value": "Tip percentage"
+}, {
+    "key": "showTryItOnPhone",
+    "value": "true"
+}, {
+    "key": "desktopTryItOnPhoneTitle",
+    "value": "Try it on your phone"
+}, {
+    "key": "desktopTryItOnPhoneSubTitle",
+    "value": "to get the ultimate experience."
+}, {
+    "key": "orderAmountPaidWithWallet",
+    "value": "Paid with wallet"
+}, {
+    "key": "orderAmountRemainingToPay",
+    "value": "Amount remaining to pay"
+}, {
+    "key": "deliveryToggleLightDarkMode",
+    "value": "Toggle Light/Dark Mode"
+}, {
+    "key": "flutterwavePublicKey",
+    "value": null
+}, {
+    "key": "checkoutFlutterwaveText",
+    "value": "Flutterwave"
+}, {
+    "key": "checkoutFlutterwaveSubText",
+    "value": "Pay with Flutterwave"
+}, {
+    "key": "cartDeliveryTypeChangeButtonText",
+    "value": "Change"
+}, {
+    "key": "cartChooseDeliveryTypeTitle",
+    "value": "Choose Delivery Type"
+}, {
+    "key": "accountMyFavouriteStores",
+    "value": "My Favourites"
+}, {
+    "key": "favouriteStoresPageTitle",
+    "value": "My Favourite Stores"
+}, {
+    "key": "cartReplaceItemTitle",
+    "value": "Replace items already in the cart?"
+}, {
+    "key": "cartReplaceItemSubTitle",
+    "value": "Your cart contains items from other store. Do you want to discard the selection and add items from this store?"
+}, {
+    "key": "cartReplaceItemActionNo",
+    "value": "No"
+}, {
+    "key": "cartReplaceItemActionYes",
+    "value": "Yes"
+}, {
+    "key": "showAddonPricesOnCart",
+    "value": "false"
+}, {
+    "key": "cartDeliveryTypeOptionAvailableText",
+    "value": "This store provides both Delivery and Self-Pickup options."
+}, {
+    "key": "cartDeliveryTypeSelectedText",
+    "value": "You have selected"
+}, {
+    "key": "showCustomerVatNumber",
+    "value": "false"
+}, {
+    "key": "accountTaxVatText",
+    "value": "Tax/VAT Number"
+}, {
+    "key": "customerVatSave",
+    "value": "Save"
+}, {
+    "key": "showPwaInstallPromptFooter",
+    "value": "true"
+}, {
+    "key": "pwaInstallFooterMessage",
+    "value": "Would you like to install this application on your phone?"
+}, {
+    "key": "pwaInstallFooterInstallText",
+    "value": "Install"
+}, {
+    "key": "msg91OtpDltTemplateId",
+    "value": null
+}, {
+    "key": "msg91NewOrderDltTemplateId",
+    "value": null
+},
+{
+    "key": "msg91NewOrderDeliveryDltTemplateId",
+    "value": null
+}, {
+    "key": "reviewsPageTitle",
+    "value": "Reviews"
+}, {
+    "key": "rarModRatingPageTitle",
+    "value": "Rate your order"
+}, {
+    "key": "rarModDeliveryRatingTitle",
+    "value": "Rate the Delivery"
+}, {
+    "key": "rarReviewBoxTitleDeliveryFeedback",
+    "value": "Your Feedback"
+}, {
+    "key": "rarModRestaurantRatingTitle",
+    "value": "Rate the Store"
+}, {
+    "key": "rarReviewBoxTitleStoreFeedback",
+    "value": "Your Feedback"
+}, {
+    "key": "rarReviewBoxTextPlaceHolderText",
+    "value": "Your Feedback"
+}, {
+    "key": "orderRateOrderButton",
+    "value": "Rate Order"
+}, {
+    "key": "ratingsRequiredMessage",
+    "value": "Rating is required"
+}, {
+    "key": "rarSubmitButtonText",
+    "value": "Submit"
+}, {
+    "key": "checkoutKhaltiText",
+    "value": "Pay with Khalti"
+}, {
+    "key": "checkoutKhaltiSubText",
+    "value": "Pay with Credit/Debit Card or Khalti Wallet"
+}, {
+    "key": "cashChangeTitle",
+    "value": "Enter cash change amount"
+}, {
+    "key": "cashChangeInputPlaceholder",
+    "value": "Cash change amount"
+}, {
+    "key": "cashChangeConfirmButton",
+    "value": "Confirm"
+}, {
+    "key": "cashChangeHelpText",
+    "value": "Leave the field empty if you don't require any cash change for Cash On Delivery of your order."
+}, {
+    "key": "showCashChange",
+    "value": "false"
+}, {
+    "key": "khaltiPublicKey",
+    "value": null
+}, {
+    "key": "khaltiSecretKey",
+    "value": null
+}, {
+    "key": "sortDeliveryStoresByDistance",
+    "value": "false"
+}]
