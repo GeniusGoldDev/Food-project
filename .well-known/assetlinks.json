@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.ricbnp",
+      "sha256_cert_fingerprints": ["51:E0:75:A6:4D:EB:F4:6A:C9:49:E6:C9:D2:89:B4:C6:86:29:07:EB:A7:17:5A:AF:5C:C5:8E:01:56:11:D5:FD"]
+    }
+  }
+]
