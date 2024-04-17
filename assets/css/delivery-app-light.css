@@ -1,0 +1,406 @@
+.nav-dark {
+	background-color: #fff;
+	color: #222b45;
+}
+
+.react-tabs__tab-list {
+	display: -webkit-box !important;
+	display: -ms-flexbox !important;
+	display: flex !important;
+	-ms-flex-pack: distribute !important;
+	justify-content: space-around !important;
+	border: 0 !important;
+	background-color: #fff;
+}
+
+.react-tabs__tab {
+	padding: 10px 14px !important;
+	color: #424242;
+}
+
+.react-tabs__tab--selected {
+	border-color: transparent !important;
+	color: #222b45 !important;
+	font-weight: 700;
+	background: #eee !important;
+	border-radius: 0 !important;
+}
+
+.react-tabs__tab:focus {
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	border-color: none !important;
+}
+
+.ReactSwipeButton {
+	float: left;
+	width: 100%;
+	height: 58px;
+	position: relative;
+}
+.ReactSwipeButton,
+.ReactSwipeButton * {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.rsbContainer {
+	float: left;
+	width: 100%;
+	height: 100%;
+	background: #eee;
+	position: relative;
+	overflow: hidden;
+	box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+.rsbContainerUnlocked {
+	display: none;
+}
+.rsbcSlider {
+	float: left;
+	width: 100%;
+	position: absolute;
+	height: 58px;
+	top: 0;
+	left: 80px;
+	margin-left: -100%;
+	background: #0d101d;
+	z-index: 100;
+	box-shadow: 2px 1px 6px 2px rgba(38, 50, 56, 0.35);
+	cursor: pointer;
+}
+.rsbcSliderText {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	line-height: 58px;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 500;
+}
+.rsbcSliderArrow {
+	float: left;
+	position: absolute;
+	transform: translateX(-4px) rotate(45deg);
+	border: 3px solid #fff;
+	height: 13px;
+	width: 13px;
+	top: 50%;
+	right: 22px;
+	margin-top: -6px;
+	border-left-color: transparent;
+	border-bottom-color: transparent;
+	transform-origin: center;
+	z-index: 10;
+	animation: rsbcSliderArrowAnimate 2s linear infinite;
+}
+@keyframes rsbcSliderArrowAnimate {
+	0% {
+		transform: translateX(-4px) rotate(45deg);
+	}
+	50% {
+		transform: translateX(6px) rotate(45deg);
+	}
+	100% {
+		transform: translateX(-4px) rotate(45deg);
+	}
+}
+.rsbcSliderCircle {
+	position: absolute;
+	right: 0;
+	background: #263238;
+	top: 0;
+	height: 58px;
+	width: 50px;
+	border-radius: 100%;
+}
+.rsbcText {
+	float: left;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 58px;
+	line-height: 58px;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 500;
+}
+.slider-bg-color {
+	background-color: #18c775;
+}
+/* END Swipe Button CSS*/
+
+.delivery-error {
+	position: fixed;
+	bottom: 5.5rem;
+	text-align: center;
+	width: 100%;
+	background-color: #f44336;
+	color: #f4f4f5;
+	padding: 0.8rem;
+	z-index: 2147483647;
+}
+
+.auth-header {
+	background-color: #f2f4f9;
+}
+
+.bg-del-timeline-icon {
+	background-color: #fff;
+	color: #000 !important;
+	font-weight: 500;
+	font-size: 1.4rem;
+}
+.nav-dark {
+	background-color: #fff;
+	color: #222b45;
+}
+.delivery-dark-bg {
+	background-color: #fefefe;
+}
+
+.delivery-address-timeline::before {
+	position: absolute;
+	top: 0;
+	left: 24px;
+	bottom: 0;
+	display: block;
+	width: 2px;
+	content: "";
+	z-index: 1;
+	background-image: linear-gradient(#e0e0e0 33%, rgba(255, 255, 255, 0) 0%);
+	background-position: right;
+	background-size: 1px 10px;
+	background-repeat: repeat-y;
+	background-color: #222b45;
+}
+.delivery-address-timeline {
+	background-color: #eee;
+	color: #222b45;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+.delivery-address-timeline .btn-get-direction {
+	background-color: #8360c3;
+	border-radius: 4px;
+	color: #fff;
+	border: 0;
+	height: 2.2rem;
+	line-height: 3px;
+}
+.single-order-metas {
+	background-color: #eee;
+	color: #222b45;
+	padding: 20px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+.single-order-commission-block {
+	position: absolute;
+	top: 6rem;
+	right: 2rem;
+	z-index: 8;
+	color: #18c775;
+	font-weight: 600;
+	font-size: 30px;
+}
+.single-order-restaurant-description {
+	display: none;
+}
+
+.single-order-items-title {
+	background-color: #eee;
+	color: #222b45;
+	padding: 20px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	font-weight: 600;
+	font-size: 1.2rem;
+}
+
+.single-order-items-list {
+	background-color: #eee;
+	color: #222b45;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+.single-item-division-hr {
+	border: 0.5px dashed #515875;
+}
+
+.delivery-order-item-quantity {
+	border: 1px solid #e0e0e0;
+	padding: 2px 8px;
+	font-weight: 500;
+	min-width: 35px;
+	text-align: center;
+	border-radius: 6px;
+}
+.delivery-items-addons-block {
+	margin-left: 55px;
+	color: #979797;
+}
+.delivery-pin-error {
+	text-align: center;
+	width: 100%;
+	background-color: #f44336;
+	color: #f4f4f5;
+	padding: 0.8rem;
+	border-radius: 20px;
+	margin-top: 10px;
+}
+
+.btn-refreshOrders {
+	background-color: #8360c3;
+	border-radius: 4px;
+	color: #fff;
+	border: 0;
+	height: 2.2rem;
+	line-height: 3px;
+}
+
+.delivery-tab-title {
+	font-size: 1.4rem;
+	font-weight: 700;
+	height: 4rem;
+}
+
+.list-delivery-commission {
+	color: #18c775;
+	font-weight: 700;
+	font-size: 1rem;
+}
+
+.list-delivery-store-name {
+	color: #8360c3;
+}
+
+.delivery-list-wrapper {
+	list-style: none;
+	padding-left: 0;
+}
+
+.delivery-list-wrapper .delivery-list-item {
+	margin-bottom: 20px;
+	background-color: #eee;
+	color: #222b45;
+	border-radius: 8px;
+}
+.btn-delivery-logout {
+	background-color: #8360c3;
+	color: #fff;
+}
+
+.delivery-account-orders-block {
+	background-color: #eee;
+	color: #222b45;
+}
+.btn-delivery-success,
+.delivery-wallet-deposit {
+	color: #fff;
+	background-color: #18c775;
+	border-radius: 4px;
+}
+.btn-delivery-ongoing,
+.delivery-wallet-withdraw {
+	color: #fff;
+	background: linear-gradient(to right, #ff9801, #f44336);
+	border-radius: 4px;
+}
+
+.delivery-block-transparent {
+	background-color: rgba(0, 0, 0, 0.25);
+	color: #fff;
+}
+
+.delivery-login-title {
+	color: #222b45;
+	font-size: 1.4rem;
+	font-weight: 700;
+}
+.delivery-login-subtitle {
+	color: #222b45;
+	font-size: 1.2rem;
+	font-weight: 400;
+}
+.delivery-login-input {
+	margin-bottom: 1.5rem;
+	border: 0;
+	border-radius: 0;
+	padding: 0;
+	height: 3.8rem;
+	background-color: #eee;
+	border-radius: 4px;
+	color: #222b45;
+	padding-left: 10px;
+	transition: 0.2s linear all;
+}
+.delivery-login-input:focus {
+	color: #222b45;
+	background-color: #eee !important;
+	transition: 0.2s linear all;
+}
+.delivery-language-select {
+	border: 0;
+	max-width: 130px;
+	border-radius: 4px;
+	background-color: #eee;
+	color: #222b45;
+	transition: 0.2s linear all;
+}
+.delivery-language-select:focus {
+	background-color: #eee;
+	color: #222b45;
+	transition: 0.2s linear all;
+}
+
+.delivery-login-button {
+	background-color: #18c775 !important;
+	color: #fafafa;
+	width: 100%;
+	height: 4rem;
+	font-size: 1.2rem;
+	border-radius: 4px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.delivery-bike-img {
+	height: 80px;
+}
+
+.delivery-login-logo {
+	display: none;
+}
+
+.delivery-already-accepted-error {
+	bottom: 0;
+}
+.delivery-max-order-reached {
+	bottom: 4.3rem;
+}
+.single-order-earnings-block {
+	background-color: #eee;
+	color: #222b45;
+	border-radius: 8px;
+}
+.single-order-total-earnings {
+	color: #18c775;
+	font-size: 1.5rem;
+	font-weight: 700;
+}
+
+.btn-toggleLightDark {
+	border-radius: 0;
+	height: 45px;
+	background-color: #eee;
+	color: #222b45;
+}

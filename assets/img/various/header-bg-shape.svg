@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1700px" height="885px" viewBox="0 0 1700 885" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Saas Landing page</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0 L1700,0 L1700,756.80574 C1700,801.381677 1695.35872,817.545989 1686.64336,833.842285 C1677.92801,850.138581 1665.13858,862.92801 1648.84229,871.643365 C1632.54599,880.358719 1616.38168,885 1571.80574,885 L128.19426,885 C83.618323,885 67.4540111,880.358719 51.1577148,871.643365 C34.8614185,862.92801 22.0719898,850.138581 13.3566352,833.842285 C4.64128056,817.545989 2.00617683e-15,801.381677 -3.45280103e-15,756.80574 L0,0 Z" id="path-1"></path>
+        <linearGradient x1="115.497655%" y1="31.2091188%" x2="31.001292%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#7E77FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-4" cx="1309.5" cy="31.5" r="283.5"></circle>
+        <filter x="-0.6%" y="-0.4%" width="101.2%" height="101.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="115.497655%" y1="46.0142172%" x2="31.001292%" y2="60.6056304%" id="linearGradient-6">
+            <stop stop-color="#7E77FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M331.5,385 L796.5,385 C833.107647,385 867.365751,394.853007 896.773159,412.057865 C926.180566,429.262724 950.737276,453.819434 967.942135,483.226841 C985.146993,512.634249 995,546.892353 995,583.5 C995,620.107647 985.146993,654.365751 967.942135,683.773159 C950.737276,713.180566 926.180566,737.737276 896.773159,754.942135 C867.365751,772.146993 833.107647,782 796.5,782 L331.5,782 C294.892353,782 260.634249,772.146993 231.226841,754.942135 C201.819434,737.737276 177.262724,713.180566 160.057865,683.773159 C142.853007,654.365751 133,620.107647 133,583.5 C133,546.892353 142.853007,512.634249 160.057865,483.226841 C177.262724,453.819434 201.819434,429.262724 231.226841,412.057865 C260.634249,394.853007 294.892353,385 331.5,385 Z" id="path-7"></path>
+        <filter x="-0.6%" y="-0.9%" width="101.3%" height="102.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="91.9057836%" y1="44.9206313%" x2="38.0263636%" y2="54.8047331%" id="linearGradient-9">
+            <stop stop-color="#7E77FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="115.497655%" y1="46.0136896%" x2="31.001292%" y2="60.6070342%" id="linearGradient-10">
+            <stop stop-color="#7E77FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Saas-Landing-page">
+            <g id="Shape" opacity="0.600000024" transform="translate(496.256915, 919.256915) rotate(-20.000000) translate(-496.256915, -919.256915) translate(346.256915, 769.256915)" stroke-width="36.7999978">
+                <circle id="Oval-Copy-15" stroke="#F9804B" opacity="0.200000003" cx="156.8" cy="144" r="59.2"></circle>
+                <path d="M149.64802,256.04802 C208.411117,256.04802 256.04802,208.411117 256.04802,149.64802 C256.04802,90.8849225 208.411117,43.2480199 149.64802,43.2480199 C90.8849225,43.2480199 43.2480199,90.8849225 43.2480199,149.64802 C43.2480199,208.411117 90.8849225,256.04802 149.64802,256.04802 Z" id="Oval-Copy-16" stroke="#C26EEF" opacity="0.200000003" stroke-linecap="round" stroke-dasharray="111.9999933242798,447.9999732971191" transform="translate(149.648020, 149.648020) rotate(51.000000) translate(-149.648020, -149.648020) "></path>
+            </g>
+            <g id="Header-shape-1">
+                <g id="Oval">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g opacity="0.100000001" mask="url(#mask-2)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+                <g opacity="0.100000001" transform="translate(564.000000, 583.500000) rotate(-20.000000) translate(-564.000000, -583.500000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+            </g>
+            <path d="M1397.45156,441.657717 L1746.45156,441.657717 C1773.96147,441.657717 1799.68699,449.043305 1821.76106,461.947412 C1843.83514,474.851519 1862.25776,493.274144 1875.16187,515.348218 C1888.06598,537.422292 1895.45156,563.147815 1895.45156,590.657717 C1895.45156,618.167619 1888.06598,643.893141 1875.16187,665.967215 C1862.25776,688.04129 1843.83514,706.463915 1821.76106,719.368022 C1799.68699,732.272129 1773.96147,739.657717 1746.45156,739.657717 L1397.45156,739.657717 C1369.94166,739.657717 1344.21614,732.272129 1322.14207,719.368022 C1300.06799,706.463915 1281.64537,688.04129 1268.74126,665.967215 C1255.83715,643.893141 1248.45156,618.167619 1248.45156,590.657717 C1248.45156,563.147815 1255.83715,537.422292 1268.74126,515.348218 C1281.64537,493.274144 1300.06799,474.851519 1322.14207,461.947412 C1344.21614,449.043305 1369.94166,441.657717 1397.45156,441.657717 Z" id="Header-shape-3" fill="url(#linearGradient-9)" opacity="0.100000001" transform="translate(1571.951564, 590.657717) rotate(-20.000000) translate(-1571.951564, -590.657717) "></path>
+            <path d="M22.4515642,286.657717 L371.451564,286.657717 C398.961466,286.657717 424.686989,294.043305 446.761063,306.947412 C468.835137,319.851519 487.257762,338.274144 500.161869,360.348218 C513.065976,382.422292 520.451564,408.147815 520.451564,435.657717 C520.451564,463.167619 513.065976,488.893141 500.161869,510.967215 C487.257762,533.04129 468.835137,551.463915 446.761063,564.368022 C424.686989,577.272129 398.961466,584.657717 371.451564,584.657717 L22.4515642,584.657717 C-5.05833753,584.657717 -30.7838603,577.272129 -52.8579344,564.368022 C-74.9320085,551.463915 -93.3546338,533.04129 -106.258741,510.967215 C-119.162848,488.893141 -126.548436,463.167619 -126.548436,435.657717 C-126.548436,408.147815 -119.162848,382.422292 -106.258741,360.348218 C-93.3546338,338.274144 -74.9320085,319.851519 -52.8579344,306.947412 C-30.7838603,294.043305 -5.05833753,286.657717 22.4515642,286.657717 Z" id="Header-shape-2" fill="url(#linearGradient-10)" opacity="0.100000001" transform="translate(196.951564, 435.657717) rotate(-20.000000) translate(-196.951564, -435.657717) "></path>
+            <g id="Elements" transform="translate(1686.000000, 322.000000)" fill="#FFFFFF" fill-rule="nonzero" opacity="0.200000003">
+                <path d="M7,14 C3.1,14 0,10.9 0,7 C0,3.1 3.1,0 7,0 C10.9,0 14,3.1 14,7 C14,10.9 10.9,14 7,14 Z M7,2 C4.2,2 2,4.2 2,7 C2,9.8 4.2,12 7,12 C9.8,12 12,9.8 12,7 C12,4.3 9.8,2 7,2 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script></svg>

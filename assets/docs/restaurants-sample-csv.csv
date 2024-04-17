@@ -1,0 +1,2 @@
+name,description,image,rating,delivery_time,price_range,address,pincode,landmark,latitude,longitude,certificate,restaurant_charges,delivery_charges,is_pureveg,is_featured,delivery_type
+Restaurant name,Restaurant Short Description,image.jpg,4.7,25,350,Restaurant Full Address,Restaurant Pincode,Restaurant Landmark,12.9244806,77.6752103,Certificate Code,30,10,0,0,1

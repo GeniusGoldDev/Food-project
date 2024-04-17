@@ -1,0 +1,2 @@
+name,restaurant_id,item_category_id,price,image,is_recommended,is_popular,is_new,desc,is_veg
+Cheesy Pizza,2,1,200,cheese-crust-pizza-13.jpg,1,1,0,NULL,1

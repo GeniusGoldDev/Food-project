@@ -1,0 +1,237 @@
+.dtp {
+	position: fixed !important;
+	top: 0 !important;
+	left: 0 !important;
+	right: 0 !important;
+	bottom: 0 !important;
+	background: rgba(0, 0, 0, 0.4) !important;
+	z-index: 2000 !important;
+	font-size: 14px !important;
+	-webkit-user-select: none !important;
+	-moz-user-select: none !important;
+	-ms-user-select: none !important;
+	user-select: none !important;
+}
+.dtp > .dtp-content {
+	background: #fff !important;
+	max-width: 300px !important;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12) !important;
+	max-height: 520px !important;
+	position: relative !important;
+	left: 50% !important;
+}
+.dtp > .dtp-content > .dtp-date-view > header.dtp-header {
+	background: #6a39c4 !important;
+    color: #fff !important;
+    text-align: center !important;
+    padding: 0.4em !important;
+}
+
+.dtp div.dtp-date,
+.dtp div.dtp-time {
+	background: #8360c3 !important;
+	text-align: center !important;
+	color: #fff !important;
+	padding: 10px !important;
+}
+.dtp div.dtp-date > div {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.dtp div.dtp-actual-month {
+	font-size: 1.5em !important;
+}
+.dtp div.dtp-actual-num {
+	font-size: 3em !important;
+	line-height: 0.9 !important;
+}
+.dtp div.dtp-actual-maxtime {
+	font-size: 3em !important;
+	line-height: 0.9 !important;
+}
+.dtp div.dtp-actual-year {
+	font-size: 1.5em !important;
+	color: #dcedc8 !important;
+}
+.dtp div.dtp-picker {
+	padding: 1em !important;
+	text-align: center !important;
+}
+
+.dtp div.dtp-picker-month,
+.dtp div.dtp-actual-time {
+	font-weight: 500 !important;
+	text-align: center !important;
+}
+.dtp div.dtp-picker-month {
+	padding-bottom: 20px !important;
+	text-transform: uppercase !important;
+}
+
+.dtp .dtp-close {
+	position: absolute !important;
+	top: 0.5em !important;
+	right: 1em !important;
+}
+.dtp .dtp-close > a {
+	color: #fff !important;
+}
+.dtp .dtp-close > a > i {
+	font-size: 1em !important;
+}
+
+.dtp table.dtp-picker-days {
+	margin: 0 !important;
+	min-height: 251px !important;
+}
+.dtp table.dtp-picker-days,
+.dtp table.dtp-picker-days tr,
+.dtp table.dtp-picker-days tr > td {
+	border: none !important;
+}
+.dtp table.dtp-picker-days tr > td {
+	font-weight: 700 !important;
+	font-size: 0.8em !important;
+	text-align: center !important;
+	padding: 0.5em 0.3em !important;
+}
+.dtp table.dtp-picker-days tr > td > span.dtp-select-day {
+	color: #bdbdbd !important;
+	padding: 0.4em 0.5em 0.5em 0.6em !important;
+}
+.dtp table.dtp-picker-days tr > td > a,
+.dtp .dtp-picker-time > a {
+	color: #212121 !important;
+	text-decoration: none !important;
+	padding: 0.4em 0.5em 0.5em 0.6em !important;
+	border-radius: 50% !important;
+}
+.dtp table.dtp-picker-days tr > td > a.selected {
+	background: #8bc34a !important;
+	color: #fff !important;
+}
+.dtp table.dtp-picker-days tr > th {
+	color: #757575 !important;
+	text-align: center !important;
+	font-weight: 700 !important;
+	padding: 0.4em 0.3em !important;
+}
+
+.dtp .p10 > a {
+	color: #689f38 !important;
+	text-decoration: none !important;
+}
+.dtp .p10 {
+	width: 10% !important;
+	display: inline-block !important;
+}
+.dtp .p20 {
+	width: 20% !important;
+	display: inline-block !important;
+}
+.dtp .p60 {
+	width: 60% !important;
+	display: inline-block !important;
+}
+.dtp .p80 {
+	width: 80% !important;
+	display: inline-block !important;
+}
+
+.dtp a.dtp-meridien-am,
+.dtp a.dtp-meridien-pm {
+	position: relative !important;
+	top: 10px !important;
+	color: #212121 !important;
+	font-weight: 500 !important;
+	padding: 0.7em 0.5em !important;
+	border-radius: 50% !important;
+	text-decoration: none !important;
+	background: #eee !important;
+	font-size: 1em !important;
+}
+.dtp .dtp-actual-meridien a.selected {
+	background: #ff7043 !important;
+	color: #fff !important;
+}
+
+.dtp .dtp-picker-time > .dtp-select-hour {
+	cursor: pointer !important;
+}
+.dtp .dtp-picker-time > .dtp-select-minute {
+	cursor: pointer !important;
+}
+
+.dtp .dtp-buttons {
+	padding: 0 1em 1em 1em !important;
+	text-align: center !important;
+    margin-top: 0.8rem !important;
+}
+
+.dtp.hidden,
+.dtp .hidden {
+	display: none !important;
+}
+.dtp .invisible {
+	visibility: hidden !important;
+}
+
+.dtp .left {
+	float: left !important;
+}
+.dtp .right {
+	float: right !important;
+}
+.dtp .clearfix {
+	clear: both !important;
+}
+
+.dtp .center {
+	text-align: center !important;
+}
+
+.dtp-picker-year {
+	margin-bottom: 1px !important;
+}
+
+.year-picker-item {
+	text-align: center !important;
+	padding-top: 5px !important;
+	font-size: large !important;
+	cursor: pointer !important;
+	margin: 0 auto !important;
+}
+
+.dtp-actual-year:hover {
+	cursor: pointer !important;
+}
+.dtp-actual-year.disabled:hover {
+	cursor: inherit !important;
+}
+.year-picker-item:hover {
+	color: #689f38 !important;
+}
+
+.year-picker-item.active {
+	color: #689f38 !important;
+	font-weight: bold !important;
+}
+
+.dtp-select-year-range {
+	display: inline-block !important;
+	text-align: center !important;
+	width: 100% !important;
+}
+
+.dtp-btn-cancel {
+	margin-right: 2rem;
+	background-color: #F5F5F5;
+	border: 1px solid #eee;
+	min-width: 75px;
+}
+.dtp-btn-ok {
+	margin-left: 2rem;
+	background-color: #F5F5F5;
+	border: 1px solid #eee;
+	min-width: 75px;
+}
