@@ -1,0 +1,25 @@
+{
+    "name": "foodomaa/supercache",
+    "description": "",
+    "authors": [
+        {
+            "name": "StackCanyon",
+            "email": "stackcanyon@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\SuperCache\\Providers\\SuperCacheServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\SuperCache\\": ""
+        }
+    }
+}

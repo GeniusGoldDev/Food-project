@@ -1,0 +1,14 @@
+{
+    "name": "SuperCache",
+    "alias": "supercache",
+    "description": "Caches Stores, Items, Languages, Settings, Sliders for better performance.",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\SuperCache\\Providers\\SuperCacheServiceProvider",
+        "Modules\\SuperCache\\Providers\\PurgeCacheServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
