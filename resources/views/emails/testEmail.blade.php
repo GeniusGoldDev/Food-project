@@ -1,0 +1,1 @@
+This is a test email. If you get this email, the Email Settings are working fine.
